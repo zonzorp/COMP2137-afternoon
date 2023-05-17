@@ -6,6 +6,3 @@ Here is my shopping list:
 * milk
 * bread
 * eggs
-* new car
-* new camera
-* divorce lawyer
