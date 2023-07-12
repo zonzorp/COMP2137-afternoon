@@ -8,6 +8,8 @@ myhostname=$(hostname)
 # we source the os-release file to get our distro info
 source /etc/os-release
 
+[ -n $myvar ] && echo myvar has data
+
 # we have all our data, time to plug it into our output template
 cat <<EOF
 
